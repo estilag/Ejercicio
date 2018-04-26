@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eb34ac6-29f2-45a5-b0e2-c9ea064b6e87" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pruebaModelo.py" beforeDir="false" afterPath="$PROJECT_DIR$/pruebaModelo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,17 +25,26 @@
       <file leaf-file-name="modelo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modelo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="705">
+              <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pruebaModelo.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pruebaModelo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pruebaModelo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            <state relative-caret-position="315">
+              <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -98,6 +105,7 @@
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/modelo.py" />
         <option value="$PROJECT_DIR$/pruebaModelo.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -263,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524736583808</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="mjorado el modelo y las pruebas">
+      <created>1524738487673</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1524738487673</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -299,7 +314,8 @@
     <MESSAGE value="Modulo de la clase Modelo" />
     <MESSAGE value="Creado fichero de pruebas y verificada clase Cliente" />
     <MESSAGE value="creada funcion que crea un listado de 4 clientes y sus pruebas correspondientes" />
-    <option name="LAST_COMMIT_MESSAGE" value="creada funcion que crea un listado de 4 clientes y sus pruebas correspondientes" />
+    <MESSAGE value="mjorado el modelo y las pruebas" />
+    <option name="LAST_COMMIT_MESSAGE" value="mjorado el modelo y las pruebas" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
@@ -323,17 +339,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modelo.py">
+    <entry file="file://$PROJECT_DIR$/pruebaModelo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="315">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pruebaModelo.py">
+    <entry file="file://$PROJECT_DIR$/modelo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state relative-caret-position="705">
+          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
