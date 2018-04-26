@@ -13,3 +13,18 @@ print(juan)
 
 listado=creaClientes()
 print(listado)
+
+for cliente in listado:
+    print(cliente.factanual)
+
+def factTotal():
+    total=0
+    lista=creaClientes()
+    for cliente in lista:
+        total=total+cliente.factanual
+
+    return total
+
+total1=factTotal()
+print(total1)
+
