@@ -1,4 +1,4 @@
-from  modelo import Cliente
+from  modelo import Cliente,creaClientes
 
 ana = Cliente("Ana","Florida 1",123445,"ana@a.com",10000)
 jose = Cliente("Jose","Florida 2",586879,"jose@a.com",20000)
@@ -9,3 +9,7 @@ print(ana)
 print(jose)
 print(maria)
 print(juan)
+
+
+listado=creaClientes()
+print(listado)
